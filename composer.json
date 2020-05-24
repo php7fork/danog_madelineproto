@@ -29,7 +29,6 @@
         "amphp/file": "^1",
         "amphp/http-client-cookies": "v1.0.0-rc5",
         "danog/dns-over-https": "^0.2",
-        "amphp/http-client-cookies": "^1",
         "danog/tg-file-decoder": "^0.1",
         "danog/magicalserializer": "^1.0",
         "league/uri": "^6",
