@@ -21,6 +21,7 @@
         "ext-hash": "*",
         "ext-zlib": "*",
         "ext-fileinfo": "*",
+        "amphp/file": "v1.0.2",
         "amphp/amp": "^2",
         "amphp/http-client": "^4",
         "amphp/socket": "^1",
